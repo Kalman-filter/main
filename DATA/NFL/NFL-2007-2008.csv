@@ -1,0 +1,285 @@
+Week,Day,Date,Time,Winner/tie,,Loser/tie,,Pts,Pts,YdsW,TOW,YdsL,TOL
+1,Thu,2007-09-06,8:39PM,Indianapolis Colts,,New Orleans Saints,boxscore,41,10,452,1,293,3
+1,Sun,2007-09-09,12:59PM,Carolina Panthers,@,St. Louis Rams,boxscore,27,13,385,2,238,2
+1,Sun,2007-09-09,1:00PM,Minnesota Vikings,,Atlanta Falcons,boxscore,24,3,302,1,265,2
+1,Sun,2007-09-09,1:02PM,Denver Broncos,@,Buffalo Bills,boxscore,15,14,470,1,184,1
+1,Sun,2007-09-09,1:02PM,Green Bay Packers,,Philadelphia Eagles,boxscore,16,13,215,2,283,3
+1,Sun,2007-09-09,1:02PM,Washington Redskins,,Miami Dolphins,boxscore,16,13,400,2,273,1
+1,Sun,2007-09-09,1:03PM,New England Patriots,@,New York Jets,boxscore,38,14,431,0,227,0
+1,Sun,2007-09-09,1:03PM,Pittsburgh Steelers,@,Cleveland Browns,boxscore,34,7,365,1,221,5
+1,Sun,2007-09-09,1:04PM,Tennessee Titans,@,Jacksonville Jaguars,boxscore,13,10,350,2,272,1
+1,Sun,2007-09-09,1:05PM,Houston Texans,,Kansas City Chiefs,boxscore,20,3,315,2,219,4
+1,Sun,2007-09-09,4:15PM,Detroit Lions,@,Oakland Raiders,boxscore,36,21,392,2,375,3
+1,Sun,2007-09-09,4:15PM,San Diego Chargers,,Chicago Bears,boxscore,14,3,263,2,202,4
+1,Sun,2007-09-09,4:15PM,Seattle Seahawks,,Tampa Bay Buccaneers,boxscore,20,6,343,1,284,2
+1,Sun,2007-09-09,8:25PM,Dallas Cowboys,,New York Giants,boxscore,45,35,478,2,438,1
+1,Mon,2007-09-10,7:10PM,Cincinnati Bengals,,Baltimore Ravens,boxscore,27,20,236,2,314,6
+1,Mon,2007-09-10,10:25PM,San Francisco 49ers,,Arizona Cardinals,boxscore,20,17,194,1,261,2
+Week
+2,Sun,2007-09-16,1:02PM,San Francisco 49ers,@,St. Louis Rams,boxscore,17,16,186,2,392,3
+2,Sun,2007-09-16,1:02PM,Pittsburgh Steelers,,Buffalo Bills,boxscore,26,3,420,1,223,0
+2,Sun,2007-09-16,1:02PM,Houston Texans,@,Carolina Panthers,boxscore,34,21,346,1,353,3
+2,Sun,2007-09-16,1:02PM,Indianapolis Colts,@,Tennessee Titans,boxscore,22,20,381,1,313,2
+2,Sun,2007-09-16,1:03PM,Tampa Bay Buccaneers,,New Orleans Saints,boxscore,31,14,330,0,343,2
+2,Sun,2007-09-16,1:03PM,Cleveland Browns,,Cincinnati Bengals,boxscore,51,45,554,1,531,3
+2,Sun,2007-09-16,1:04PM,Green Bay Packers,@,New York Giants,boxscore,35,13,368,1,325,2
+2,Sun,2007-09-16,1:04PM,Jacksonville Jaguars,,Atlanta Falcons,boxscore,13,7,364,0,248,0
+2,Sun,2007-09-16,4:05PM,Arizona Cardinals,,Seattle Seahawks,boxscore,23,20,431,1,362,1
+2,Sun,2007-09-16,4:05PM,Dallas Cowboys,@,Miami Dolphins,boxscore,37,20,352,0,334,5
+2,Sun,2007-09-16,4:05PM,Detroit Lions,,Minnesota Vikings,boxscore,20,17,415,5,313,5
+2,Sun,2007-09-16,4:15PM,Baltimore Ravens,,New York Jets,boxscore,20,13,303,0,304,2
+2,Sun,2007-09-16,4:15PM,Denver Broncos,,Oakland Raiders,boxscore,23,20,441,2,253,3
+2,Sun,2007-09-16,4:15PM,Chicago Bears,,Kansas City Chiefs,boxscore,20,10,239,3,281,2
+2,Sun,2007-09-16,8:24PM,New England Patriots,,San Diego Chargers,boxscore,38,14,407,2,201,3
+2,Mon,2007-09-17,8:40PM,Washington Redskins,@,Philadelphia Eagles,boxscore,20,12,337,1,340,0
+Week
+3,Sun,2007-09-23,1:00PM,Kansas City Chiefs,,Minnesota Vikings,boxscore,13,10,251,1,256,1
+3,Sun,2007-09-23,1:00PM,Baltimore Ravens,,Arizona Cardinals,boxscore,26,23,381,1,364,1
+3,Sun,2007-09-23,1:02PM,New England Patriots,,Buffalo Bills,boxscore,38,7,485,1,193,2
+3,Sun,2007-09-23,1:02PM,Philadelphia Eagles,,Detroit Lions,boxscore,56,21,536,2,432,3
+3,Sun,2007-09-23,1:02PM,New York Jets,,Miami Dolphins,boxscore,31,28,256,0,424,1
+3,Sun,2007-09-23,1:02PM,Pittsburgh Steelers,,San Francisco 49ers,boxscore,37,16,350,1,289,1
+3,Sun,2007-09-23,1:02PM,Tampa Bay Buccaneers,,St. Louis Rams,boxscore,24,3,322,1,245,3
+3,Sun,2007-09-23,1:02PM,Green Bay Packers,,San Diego Chargers,boxscore,31,24,405,0,364,1
+3,Sun,2007-09-23,1:03PM,Indianapolis Colts,@,Houston Texans,boxscore,30,24,362,0,254,2
+3,Sun,2007-09-23,4:05PM,Jacksonville Jaguars,@,Denver Broncos,boxscore,23,14,326,2,265,3
+3,Sun,2007-09-23,4:05PM,Seattle Seahawks,,Cincinnati Bengals,boxscore,24,21,340,2,412,4
+3,Sun,2007-09-23,4:05PM,Oakland Raiders,,Cleveland Browns,boxscore,26,24,396,2,312,2
+3,Sun,2007-09-23,4:15PM,Carolina Panthers,@,Atlanta Falcons,boxscore,27,20,313,0,442,2
+3,Sun,2007-09-23,4:15PM,New York Giants,@,Washington Redskins,boxscore,24,17,315,3,260,1
+3,Sun,2007-09-23,8:24PM,Dallas Cowboys,@,Chicago Bears,boxscore,34,10,431,1,239,4
+3,Mon,2007-09-24,8:40PM,Tennessee Titans,@,New Orleans Saints,boxscore,31,14,284,1,252,5
+Week
+4,Sun,2007-09-30,1:02PM,Atlanta Falcons,,Houston Texans,boxscore,26,16,304,0,398,2
+4,Sun,2007-09-30,1:02PM,Dallas Cowboys,,St. Louis Rams,boxscore,35,7,502,1,187,1
+4,Sun,2007-09-30,1:02PM,Buffalo Bills,,New York Jets,boxscore,17,14,304,2,347,2
+4,Sun,2007-09-30,1:02PM,Cleveland Browns,,Baltimore Ravens,boxscore,27,13,303,1,418,2
+4,Sun,2007-09-30,1:03PM,Detroit Lions,,Chicago Bears,boxscore,37,27,310,2,303,3
+4,Sun,2007-09-30,1:05PM,Green Bay Packers,@,Minnesota Vikings,boxscore,23,16,384,2,382,2
+4,Sun,2007-09-30,1:32PM,Oakland Raiders,@,Miami Dolphins,boxscore,35,17,369,1,278,2
+4,Sun,2007-09-30,4:05PM,Seattle Seahawks,@,San Francisco 49ers,boxscore,23,3,371,1,184,3
+4,Sun,2007-09-30,4:06PM,Tampa Bay Buccaneers,@,Carolina Panthers,boxscore,20,7,365,1,236,2
+4,Sun,2007-09-30,4:15PM,Arizona Cardinals,,Pittsburgh Steelers,boxscore,21,14,301,2,282,2
+4,Sun,2007-09-30,4:15PM,Kansas City Chiefs,@,San Diego Chargers,boxscore,30,16,390,2,333,4
+4,Sun,2007-09-30,4:15PM,Indianapolis Colts,,Denver Broncos,boxscore,38,20,419,0,354,2
+4,Sun,2007-09-30,8:23PM,New York Giants,,Philadelphia Eagles,boxscore,16,3,212,1,190,1
+4,Mon,2007-10-01,8:40PM,New England Patriots,@,Cincinnati Bengals,boxscore,34,13,404,1,283,2
+Week
+5,Sun,2007-10-07,1:00PM,Jacksonville Jaguars,@,Kansas City Chiefs,boxscore,17,7,357,0,271,1
+5,Sun,2007-10-07,1:02PM,New York Giants,,New York Jets,boxscore,35,24,374,2,277,3
+5,Sun,2007-10-07,1:02PM,Pittsburgh Steelers,,Seattle Seahawks,boxscore,21,0,342,0,144,1
+5,Sun,2007-10-07,1:02PM,New England Patriots,,Cleveland Browns,boxscore,34,17,412,0,353,4
+5,Sun,2007-10-07,1:02PM,Arizona Cardinals,@,St. Louis Rams,boxscore,34,31,383,2,375,3
+5,Sun,2007-10-07,1:02PM,Washington Redskins,,Detroit Lions,boxscore,34,3,366,1,144,2
+5,Sun,2007-10-07,1:02PM,Houston Texans,,Miami Dolphins,boxscore,22,19,352,2,285,1
+5,Sun,2007-10-07,1:03PM,Carolina Panthers,@,New Orleans Saints,boxscore,16,13,243,1,341,2
+5,Sun,2007-10-07,1:04PM,Tennessee Titans,,Atlanta Falcons,boxscore,20,13,249,5,198,2
+5,Sun,2007-10-07,4:05PM,Indianapolis Colts,,Tampa Bay Buccaneers,boxscore,33,14,400,1,177,1
+5,Sun,2007-10-07,4:15PM,Baltimore Ravens,@,San Francisco 49ers,boxscore,9,7,315,0,163,1
+5,Sun,2007-10-07,4:15PM,San Diego Chargers,@,Denver Broncos,boxscore,41,3,484,0,296,3
+5,Sun,2007-10-07,8:24PM,Chicago Bears,@,Green Bay Packers,boxscore,27,20,285,1,439,5
+5,Mon,2007-10-08,8:40PM,Dallas Cowboys,@,Buffalo Bills,boxscore,25,24,385,6,229,1
+Week
+6,Sun,2007-10-14,1:00PM,Kansas City Chiefs,,Cincinnati Bengals,boxscore,27,20,354,2,373,3
+6,Sun,2007-10-14,1:02PM,Philadelphia Eagles,@,New York Jets,boxscore,16,9,413,1,267,1
+6,Sun,2007-10-14,1:02PM,Baltimore Ravens,,St. Louis Rams,boxscore,22,3,248,2,264,6
+6,Sun,2007-10-14,1:02PM,Minnesota Vikings,@,Chicago Bears,boxscore,34,31,444,0,458,4
+6,Sun,2007-10-14,1:02PM,Green Bay Packers,,Washington Redskins,boxscore,17,14,225,2,304,3
+6,Sun,2007-10-14,1:03PM,Tampa Bay Buccaneers,,Tennessee Titans,boxscore,13,10,304,1,317,3
+6,Sun,2007-10-14,1:03PM,Jacksonville Jaguars,,Houston Texans,boxscore,37,17,457,3,390,3
+6,Sun,2007-10-14,1:03PM,Cleveland Browns,,Miami Dolphins,boxscore,41,31,384,1,356,2
+6,Sun,2007-10-14,4:05PM,Carolina Panthers,@,Arizona Cardinals,boxscore,25,10,374,0,255,5
+6,Sun,2007-10-14,4:15PM,San Diego Chargers,,Oakland Raiders,boxscore,28,14,362,1,245,3
+6,Sun,2007-10-14,4:17PM,New England Patriots,@,Dallas Cowboys,boxscore,48,27,448,1,285,1
+6,Sun,2007-10-14,8:23PM,New Orleans Saints,@,Seattle Seahawks,boxscore,28,17,367,1,425,2
+6,Mon,2007-10-15,8:40PM,New York Giants,@,Atlanta Falcons,boxscore,31,10,491,3,284,1
+Week
+7,Sun,2007-10-21,1:02PM,Buffalo Bills,,Baltimore Ravens,boxscore,19,14,242,1,308,1
+7,Sun,2007-10-21,1:02PM,Washington Redskins,,Arizona Cardinals,boxscore,21,19,160,1,364,3
+7,Sun,2007-10-21,1:02PM,New England Patriots,@,Miami Dolphins,boxscore,49,28,443,1,382,2
+7,Sun,2007-10-21,1:02PM,Tennessee Titans,@,Houston Texans,boxscore,38,36,422,2,333,6
+7,Sun,2007-10-21,1:03PM,Detroit Lions,,Tampa Bay Buccaneers,boxscore,23,16,278,0,422,2
+7,Sun,2007-10-21,1:03PM,New Orleans Saints,,Atlanta Falcons,boxscore,22,16,310,1,334,0
+7,Sun,2007-10-21,1:03PM,New York Giants,,San Francisco 49ers,boxscore,33,15,279,1,267,4
+7,Sun,2007-10-21,4:05PM,Cincinnati Bengals,,New York Jets,boxscore,38,31,395,1,342,2
+7,Sun,2007-10-21,4:05PM,Kansas City Chiefs,@,Oakland Raiders,boxscore,12,10,290,1,268,2
+7,Sun,2007-10-21,4:14PM,Chicago Bears,@,Philadelphia Eagles,boxscore,19,16,386,0,334,0
+7,Sun,2007-10-21,4:15PM,Dallas Cowboys,,Minnesota Vikings,boxscore,24,14,381,2,196,1
+7,Sun,2007-10-21,4:16PM,Seattle Seahawks,,St. Louis Rams,boxscore,33,6,289,1,221,5
+7,Sun,2007-10-21,8:23PM,Denver Broncos,,Pittsburgh Steelers,boxscore,31,28,324,2,379,3
+7,Mon,2007-10-22,8:40PM,Indianapolis Colts,@,Jacksonville Jaguars,boxscore,29,7,384,1,226,3
+Week
+8,Sun,2007-10-28,1:00PM,Cleveland Browns,@,St. Louis Rams,boxscore,27,20,368,0,393,1
+8,Sun,2007-10-28,1:02PM,Pittsburgh Steelers,@,Cincinnati Bengals,boxscore,24,13,390,1,296,1
+8,Sun,2007-10-28,1:02PM,Tennessee Titans,,Oakland Raiders,boxscore,13,9,218,0,235,2
+8,Sun,2007-10-28,1:02PM,Indianapolis Colts,@,Carolina Panthers,boxscore,31,7,395,1,293,3
+8,Sun,2007-10-28,1:03PM,New York Giants,@,Miami Dolphins,boxscore,13,10,238,1,245,2
+8,Sun,2007-10-28,1:05PM,Philadelphia Eagles,@,Minnesota Vikings,boxscore,23,16,385,0,256,0
+8,Sun,2007-10-28,1:05PM,Detroit Lions,@,Chicago Bears,boxscore,16,7,365,1,255,4
+8,Sun,2007-10-28,4:05PM,Buffalo Bills,@,New York Jets,boxscore,13,3,347,1,254,3
+8,Sun,2007-10-28,4:05PM,Jacksonville Jaguars,@,Tampa Bay Buccaneers,boxscore,24,23,219,0,385,3
+8,Sun,2007-10-28,4:05PM,San Diego Chargers,,Houston Texans,boxscore,35,10,237,0,367,5
+8,Sun,2007-10-28,4:17PM,New Orleans Saints,@,San Francisco 49ers,boxscore,31,10,438,1,260,1
+8,Sun,2007-10-28,4:17PM,New England Patriots,,Washington Redskins,boxscore,52,7,486,1,224,4
+8,Mon,2007-10-29,8:40PM,Green Bay Packers,@,Denver Broncos,boxscore,19,13,430,0,332,1
+Week
+9,Sun,2007-11-04,1:00PM,Green Bay Packers,@,Kansas City Chiefs,boxscore,33,22,432,2,234,2
+9,Sun,2007-11-04,1:00PM,Tampa Bay Buccaneers,,Arizona Cardinals,boxscore,17,10,350,0,195,2
+9,Sun,2007-11-04,1:02PM,Detroit Lions,,Denver Broncos,boxscore,44,7,376,1,303,4
+9,Sun,2007-11-04,1:02PM,Tennessee Titans,,Carolina Panthers,boxscore,20,7,236,4,191,2
+9,Sun,2007-11-04,1:02PM,Atlanta Falcons,,San Francisco 49ers,boxscore,20,16,286,1,251,4
+9,Sun,2007-11-04,1:02PM,Buffalo Bills,,Cincinnati Bengals,boxscore,33,21,479,1,299,1
+9,Sun,2007-11-04,1:02PM,New Orleans Saints,,Jacksonville Jaguars,boxscore,41,24,538,1,432,3
+9,Sun,2007-11-04,1:02PM,Washington Redskins,@,New York Jets,boxscore,23,20,431,1,338,1
+9,Sun,2007-11-04,1:05PM,Minnesota Vikings,,San Diego Chargers,boxscore,35,17,528,2,229,2
+9,Sun,2007-11-04,4:06PM,Cleveland Browns,,Seattle Seahawks,boxscore,33,30,428,1,423,2
+9,Sun,2007-11-04,4:15PM,Houston Texans,@,Oakland Raiders,boxscore,24,17,359,1,310,3
+9,Sun,2007-11-04,4:18PM,New England Patriots,@,Indianapolis Colts,boxscore,24,20,342,2,329,2
+9,Sun,2007-11-04,8:23PM,Dallas Cowboys,@,Philadelphia Eagles,boxscore,38,17,434,1,316,3
+9,Mon,2007-11-05,8:38PM,Pittsburgh Steelers,,Baltimore Ravens,boxscore,38,7,291,1,104,4
+Week
+10,Sun,2007-11-11,1:00PM,Denver Broncos,@,Kansas City Chiefs,boxscore,27,11,327,1,284,4
+10,Sun,2007-11-11,1:02PM,Buffalo Bills,@,Miami Dolphins,boxscore,13,10,214,1,269,0
+10,Sun,2007-11-11,1:02PM,Pittsburgh Steelers,,Cleveland Browns,boxscore,31,28,401,1,163,1
+10,Sun,2007-11-11,1:02PM,St. Louis Rams,@,New Orleans Saints,boxscore,37,29,409,0,299,2
+10,Sun,2007-11-11,1:02PM,Green Bay Packers,,Minnesota Vikings,boxscore,34,0,488,0,247,1
+10,Sun,2007-11-11,1:03PM,Atlanta Falcons,@,Carolina Panthers,boxscore,20,13,277,1,235,2
+10,Sun,2007-11-11,1:03PM,Jacksonville Jaguars,@,Tennessee Titans,boxscore,28,13,262,1,292,3
+10,Sun,2007-11-11,1:03PM,Philadelphia Eagles,@,Washington Redskins,boxscore,33,25,379,2,361,2
+10,Sun,2007-11-11,4:05PM,Cincinnati Bengals,@,Baltimore Ravens,boxscore,21,7,326,0,272,6
+10,Sun,2007-11-11,4:15PM,Arizona Cardinals,,Detroit Lions,boxscore,31,21,319,4,247,5
+10,Sun,2007-11-11,4:15PM,Chicago Bears,@,Oakland Raiders,boxscore,17,6,295,0,193,3
+10,Sun,2007-11-11,4:15PM,Dallas Cowboys,@,New York Giants,boxscore,31,20,323,1,300,2
+10,Sun,2007-11-11,8:15PM,San Diego Chargers,,Indianapolis Colts,boxscore,23,21,177,3,386,6
+10,Mon,2007-11-12,8:41PM,Seattle Seahawks,,San Francisco 49ers,boxscore,24,0,380,2,173,2
+Week
+11,Sun,2007-11-18,1:02PM,Houston Texans,,New Orleans Saints,boxscore,23,10,390,2,327,3
+11,Sun,2007-11-18,1:02PM,Arizona Cardinals,@,Cincinnati Bengals,boxscore,35,27,247,0,396,5
+11,Sun,2007-11-18,1:02PM,Philadelphia Eagles,,Miami Dolphins,boxscore,17,7,352,3,186,0
+11,Sun,2007-11-18,1:02PM,Indianapolis Colts,,Kansas City Chiefs,boxscore,13,10,216,1,234,2
+11,Sun,2007-11-18,1:02PM,Green Bay Packers,,Carolina Panthers,boxscore,31,17,317,0,382,3
+11,Sun,2007-11-18,1:02PM,Cleveland Browns,@,Baltimore Ravens,boxscore,33,30,380,2,368,4
+11,Sun,2007-11-18,1:03PM,New York Giants,@,Detroit Lions,boxscore,16,10,341,2,376,4
+11,Sun,2007-11-18,1:03PM,Jacksonville Jaguars,,San Diego Chargers,boxscore,24,17,311,0,388,2
+11,Sun,2007-11-18,1:05PM,Minnesota Vikings,,Oakland Raiders,boxscore,29,22,478,5,372,2
+11,Sun,2007-11-18,1:05PM,Tampa Bay Buccaneers,@,Atlanta Falcons,boxscore,31,7,305,2,265,4
+11,Sun,2007-11-18,4:05PM,New York Jets,,Pittsburgh Steelers,boxscore,19,16,297,1,263,2
+11,Sun,2007-11-18,4:15PM,Dallas Cowboys,,Washington Redskins,boxscore,28,23,362,1,423,2
+11,Sun,2007-11-18,4:15PM,St. Louis Rams,@,San Francisco 49ers,boxscore,13,9,207,0,244,2
+11,Sun,2007-11-18,4:16PM,Seattle Seahawks,,Chicago Bears,boxscore,30,23,425,1,345,1
+11,Sun,2007-11-18,8:24PM,New England Patriots,@,Buffalo Bills,boxscore,56,10,510,0,229,2
+11,Mon,2007-11-19,8:40PM,Denver Broncos,,Tennessee Titans,boxscore,34,20,359,1,423,3
+Week
+12,Thu,2007-11-22,12:36PM,Green Bay Packers,@,Detroit Lions,boxscore,37,26,481,1,331,1
+12,Thu,2007-11-22,4:20PM,Dallas Cowboys,,New York Jets,boxscore,34,3,344,1,180,2
+12,Thu,2007-11-22,8:16PM,Indianapolis Colts,@,Atlanta Falcons,boxscore,31,13,365,1,250,2
+12,Sun,2007-11-25,1:00PM,Seattle Seahawks,@,St. Louis Rams,boxscore,24,19,302,2,265,2
+12,Sun,2007-11-25,1:00PM,Oakland Raiders,@,Kansas City Chiefs,boxscore,20,17,312,1,292,1
+12,Sun,2007-11-25,1:02PM,Tampa Bay Buccaneers,,Washington Redskins,boxscore,19,13,192,0,412,6
+12,Sun,2007-11-25,1:02PM,Cincinnati Bengals,,Tennessee Titans,boxscore,35,6,426,1,305,2
+12,Sun,2007-11-25,1:03PM,Minnesota Vikings,@,New York Giants,boxscore,41,17,251,0,309,4
+12,Sun,2007-11-25,1:03PM,Jacksonville Jaguars,,Buffalo Bills,boxscore,36,14,416,1,297,3
+12,Sun,2007-11-25,1:03PM,New Orleans Saints,@,Carolina Panthers,boxscore,31,6,373,1,195,4
+12,Sun,2007-11-25,1:03PM,Cleveland Browns,,Houston Texans,boxscore,27,17,397,1,314,3
+12,Sun,2007-11-25,4:06PM,San Francisco 49ers,@,Arizona Cardinals,boxscore,37,31,374,0,552,4
+12,Sun,2007-11-25,4:15PM,San Diego Chargers,,Baltimore Ravens,boxscore,32,14,332,0,210,2
+12,Sun,2007-11-25,4:16PM,Chicago Bears,,Denver Broncos,boxscore,37,34,293,4,430,2
+12,Sun,2007-11-25,8:23PM,New England Patriots,,Philadelphia Eagles,boxscore,31,28,410,0,391,3
+12,Mon,2007-11-26,8:55PM,Pittsburgh Steelers,,Miami Dolphins,boxscore,3,0,216,1,159,2
+Week
+13,Thu,2007-11-29,8:16PM,Dallas Cowboys,,Green Bay Packers,boxscore,37,27,414,1,357,2
+13,Sun,2007-12-02,1:00PM,San Diego Chargers,@,Kansas City Chiefs,boxscore,24,10,330,1,268,4
+13,Sun,2007-12-02,1:00PM,St. Louis Rams,,Atlanta Falcons,boxscore,28,16,409,2,435,3
+13,Sun,2007-12-02,1:02PM,Seattle Seahawks,@,Philadelphia Eagles,boxscore,28,24,311,2,363,4
+13,Sun,2007-12-02,1:02PM,Buffalo Bills,@,Washington Redskins,boxscore,17,16,357,1,281,2
+13,Sun,2007-12-02,1:02PM,Tennessee Titans,,Houston Texans,boxscore,28,20,382,1,315,2
+13,Sun,2007-12-02,1:02PM,Indianapolis Colts,,Jacksonville Jaguars,boxscore,28,25,342,1,411,2
+13,Sun,2007-12-02,1:03PM,New York Jets,@,Miami Dolphins,boxscore,40,13,372,2,187,5
+13,Sun,2007-12-02,1:03PM,Carolina Panthers,,San Francisco 49ers,boxscore,31,14,323,2,195,6
+13,Sun,2007-12-02,1:05PM,Minnesota Vikings,,Detroit Lions,boxscore,42,10,443,1,253,1
+13,Sun,2007-12-02,4:05PM,Oakland Raiders,,Denver Broncos,boxscore,34,20,372,1,292,4
+13,Sun,2007-12-02,4:06PM,Arizona Cardinals,,Cleveland Browns,boxscore,27,21,302,1,379,4
+13,Sun,2007-12-02,4:15PM,Tampa Bay Buccaneers,@,New Orleans Saints,boxscore,27,23,466,1,246,1
+13,Sun,2007-12-02,4:15PM,New York Giants,@,Chicago Bears,boxscore,21,16,356,4,312,0
+13,Sun,2007-12-02,8:24PM,Pittsburgh Steelers,,Cincinnati Bengals,boxscore,24,10,285,4,249,1
+13,Mon,2007-12-03,8:41PM,New England Patriots,@,Baltimore Ravens,boxscore,27,24,326,1,376,2
+Week
+14,Thu,2007-12-06,8:16PM,Washington Redskins,,Chicago Bears,boxscore,24,16,345,1,356,2
+14,Sun,2007-12-09,1:01PM,Houston Texans,,Tampa Bay Buccaneers,boxscore,28,14,257,2,305,2
+14,Sun,2007-12-09,1:02PM,New York Giants,@,Philadelphia Eagles,boxscore,16,13,318,2,306,1
+14,Sun,2007-12-09,1:02PM,Buffalo Bills,,Miami Dolphins,boxscore,38,17,389,1,285,5
+14,Sun,2007-12-09,1:02PM,San Diego Chargers,@,Tennessee Titans,boxscore,23,17,341,3,240,2
+14,Sun,2007-12-09,1:02PM,Green Bay Packers,,Oakland Raiders,boxscore,38,7,445,1,233,3
+14,Sun,2007-12-09,1:02PM,Cincinnati Bengals,,St. Louis Rams,boxscore,19,10,370,2,241,2
+14,Sun,2007-12-09,1:03PM,Jacksonville Jaguars,,Carolina Panthers,boxscore,37,6,427,1,149,2
+14,Sun,2007-12-09,1:03PM,Dallas Cowboys,@,Detroit Lions,boxscore,28,27,368,1,390,0
+14,Sun,2007-12-09,4:05PM,Minnesota Vikings,@,San Francisco 49ers,boxscore,27,7,280,1,282,5
+14,Sun,2007-12-09,4:06PM,Seattle Seahawks,,Arizona Cardinals,boxscore,42,21,349,0,355,5
+14,Sun,2007-12-09,4:15PM,Denver Broncos,,Kansas City Chiefs,boxscore,41,7,453,0,129,3
+14,Sun,2007-12-09,4:15PM,Cleveland Browns,@,New York Jets,boxscore,24,18,337,1,387,2
+14,Sun,2007-12-09,4:15PM,New England Patriots,,Pittsburgh Steelers,boxscore,34,13,421,0,349,1
+14,Sun,2007-12-09,8:23PM,Indianapolis Colts,@,Baltimore Ravens,boxscore,44,20,334,0,243,5
+14,Mon,2007-12-10,8:40PM,New Orleans Saints,@,Atlanta Falcons,boxscore,34,14,473,1,323,1
+Week
+15,Thu,2007-12-13,8:15PM,Houston Texans,,Denver Broncos,boxscore,31,13,358,1,308,0
+15,Sat,2007-12-15,8:15PM,San Francisco 49ers,,Cincinnati Bengals,boxscore,20,13,337,0,313,0
+15,Sun,2007-12-16,1:00PM,Green Bay Packers,@,St. Louis Rams,boxscore,33,14,277,3,364,2
+15,Sun,2007-12-16,1:00PM,Tennessee Titans,@,Kansas City Chiefs,boxscore,26,17,327,0,306,3
+15,Sun,2007-12-16,1:02PM,New England Patriots,,New York Jets,boxscore,20,10,265,1,234,2
+15,Sun,2007-12-16,1:02PM,Carolina Panthers,,Seattle Seahawks,boxscore,13,10,322,0,282,1
+15,Sun,2007-12-16,1:03PM,Jacksonville Jaguars,@,Pittsburgh Steelers,boxscore,29,22,421,1,217,0
+15,Sun,2007-12-16,1:03PM,New Orleans Saints,,Arizona Cardinals,boxscore,31,24,421,2,317,2
+15,Sun,2007-12-16,1:03PM,Tampa Bay Buccaneers,,Atlanta Falcons,boxscore,37,3,285,1,133,4
+15,Sun,2007-12-16,1:03PM,Cleveland Browns,,Buffalo Bills,boxscore,8,0,304,0,232,0
+15,Sun,2007-12-16,1:03PM,Miami Dolphins,,Baltimore Ravens,boxscore,22,16,360,0,345,1
+15,Sun,2007-12-16,4:05PM,Indianapolis Colts,@,Oakland Raiders,boxscore,21,14,322,1,253,0
+15,Sun,2007-12-16,4:15PM,Philadelphia Eagles,@,Dallas Cowboys,boxscore,10,6,315,1,240,3
+15,Sun,2007-12-16,4:15PM,San Diego Chargers,,Detroit Lions,boxscore,51,14,416,0,328,6
+15,Sun,2007-12-16,8:24PM,Washington Redskins,@,New York Giants,boxscore,22,10,309,0,307,1
+15,Mon,2007-12-17,8:40PM,Minnesota Vikings,,Chicago Bears,boxscore,20,13,372,4,209,1
+Week
+16,Thu,2007-12-20,8:15PM,Pittsburgh Steelers,@,St. Louis Rams,boxscore,41,24,425,0,316,2
+16,Sat,2007-12-22,8:15PM,Dallas Cowboys,@,Carolina Panthers,boxscore,20,13,405,1,216,1
+16,Sun,2007-12-23,1:02PM,New York Giants,@,Buffalo Bills,boxscore,38,21,383,4,244,4
+16,Sun,2007-12-23,1:02PM,Indianapolis Colts,,Houston Texans,boxscore,38,15,458,1,299,3
+16,Sun,2007-12-23,1:02PM,Philadelphia Eagles,@,New Orleans Saints,boxscore,38,23,435,1,346,1
+16,Sun,2007-12-23,1:02PM,Detroit Lions,,Kansas City Chiefs,boxscore,25,20,236,1,407,1
+16,Sun,2007-12-23,1:02PM,Cincinnati Bengals,,Cleveland Browns,boxscore,19,14,270,3,380,4
+16,Sun,2007-12-23,1:02PM,Jacksonville Jaguars,,Oakland Raiders,boxscore,49,11,437,2,215,4
+16,Sun,2007-12-23,1:03PM,Chicago Bears,,Green Bay Packers,boxscore,35,7,240,0,274,2
+16,Sun,2007-12-23,4:05PM,Arizona Cardinals,,Atlanta Falcons,boxscore,30,27,437,0,405,1
+16,Sun,2007-12-23,4:05PM,San Francisco 49ers,,Tampa Bay Buccaneers,boxscore,21,19,213,2,434,2
+16,Sun,2007-12-23,4:15PM,New England Patriots,,Miami Dolphins,boxscore,28,7,400,4,241,0
+16,Sun,2007-12-23,4:15PM,Tennessee Titans,,New York Jets,boxscore,10,6,273,2,296,2
+16,Sun,2007-12-23,4:16PM,Seattle Seahawks,,Baltimore Ravens,boxscore,27,6,336,2,293,3
+16,Sun,2007-12-23,8:15PM,Washington Redskins,@,Minnesota Vikings,boxscore,32,21,367,0,299,3
+16,Mon,2007-12-24,8:10PM,San Diego Chargers,,Denver Broncos,boxscore,23,3,334,1,225,3
+Week
+17,Sat,2007-12-29,8:15PM,New England Patriots,@,New York Giants,boxscore,38,35,390,0,316,1
+17,Sun,2007-12-30,1:00PM,Chicago Bears,,New Orleans Saints,boxscore,33,25,275,3,413,3
+17,Sun,2007-12-30,1:01PM,Philadelphia Eagles,,Buffalo Bills,boxscore,17,9,391,2,271,0
+17,Sun,2007-12-30,1:02PM,Green Bay Packers,,Detroit Lions,boxscore,34,13,394,1,293,2
+17,Sun,2007-12-30,1:02PM,Carolina Panthers,@,Tampa Bay Buccaneers,boxscore,31,23,349,2,303,1
+17,Sun,2007-12-30,1:02PM,Houston Texans,,Jacksonville Jaguars,boxscore,42,28,290,1,381,1
+17,Sun,2007-12-30,1:03PM,Cincinnati Bengals,@,Miami Dolphins,boxscore,38,25,393,1,336,1
+17,Sun,2007-12-30,1:03PM,Cleveland Browns,,San Francisco 49ers,boxscore,20,7,358,1,185,0
+17,Sun,2007-12-30,1:04PM,Atlanta Falcons,,Seattle Seahawks,boxscore,44,41,364,0,501,3
+17,Sun,2007-12-30,4:15PM,Arizona Cardinals,,St. Louis Rams,boxscore,48,19,422,2,234,3
+17,Sun,2007-12-30,4:15PM,New York Jets,,Kansas City Chiefs,boxscore,13,10,337,0,219,0
+17,Sun,2007-12-30,4:15PM,Washington Redskins,,Dallas Cowboys,boxscore,27,6,354,2,147,1
+17,Sun,2007-12-30,4:15PM,San Diego Chargers,@,Oakland Raiders,boxscore,30,17,253,1,316,4
+17,Sun,2007-12-30,4:16PM,Denver Broncos,,Minnesota Vikings,boxscore,22,19,362,0,332,3
+17,Sun,2007-12-30,4:17PM,Baltimore Ravens,,Pittsburgh Steelers,boxscore,27,21,334,1,264,3
+17,Sun,2007-12-30,8:24PM,Tennessee Titans,@,Indianapolis Colts,boxscore,16,10,356,2,194,1
+,,Playoffs,,,,,,,,,,,
+WildCard,Sat,2008-01-05,4:35PM,Seattle Seahawks,,Washington Redskins,boxscore,35,14,304,2,319,2
+WildCard,Sat,2008-01-05,8:13PM,Jacksonville Jaguars,@,Pittsburgh Steelers,boxscore,31,29,239,2,340,4
+WildCard,Sun,2008-01-06,1:03PM,New York Giants,@,Tampa Bay Buccaneers,boxscore,24,14,277,0,271,3
+WildCard,Sun,2008-01-06,4:30PM,San Diego Chargers,,Tennessee Titans,boxscore,17,6,350,1,248,2
+Division,Sat,2008-01-12,4:33PM,Green Bay Packers,,Seattle Seahawks,boxscore,42,20,408,2,200,1
+Division,Sat,2008-01-12,8:15PM,New England Patriots,,Jacksonville Jaguars,boxscore,31,20,403,0,350,2
+Division,Sun,2008-01-13,1:06PM,San Diego Chargers,@,Indianapolis Colts,boxscore,28,24,411,1,446,3
+Division,Sun,2008-01-13,4:45PM,New York Giants,@,Dallas Cowboys,boxscore,21,17,230,0,336,1
+ConfChamp,Sun,2008-01-20,3:05PM,New England Patriots,,San Diego Chargers,boxscore,21,12,347,3,311,2
+ConfChamp,Sun,2008-01-20,6:42PM,New York Giants,@,Green Bay Packers,boxscore,23,20,377,1,264,2
+SuperBowl,Sun,2008-02-03,6:30PM,New York Giants,N,New England Patriots,boxscore,17,14,338,1,274,1

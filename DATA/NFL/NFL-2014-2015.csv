@@ -1,0 +1,285 @@
+Week,Day,Date,Time,Winner/tie,,Loser/tie,,Pts,Pts,YdsW,TOW,YdsL,TOL
+1,Thu,2014-09-04,8:42PM,Seattle Seahawks,,Green Bay Packers,boxscore,36,16,398,1,255,1
+1,Sun,2014-09-07,1:00PM,Buffalo Bills,@,Chicago Bears,boxscore,23,20,360,1,427,3
+1,Sun,2014-09-07,1:00PM,Minnesota Vikings,@,St. Louis Rams,boxscore,34,6,355,0,318,2
+1,Sun,2014-09-07,1:02PM,Pittsburgh Steelers,,Cleveland Browns,boxscore,30,27,503,1,389,0
+1,Sun,2014-09-07,1:02PM,Tennessee Titans,@,Kansas City Chiefs,boxscore,26,10,405,0,245,3
+1,Sun,2014-09-07,1:02PM,New York Jets,,Oakland Raiders,boxscore,19,14,402,2,158,0
+1,Sun,2014-09-07,1:02PM,Cincinnati Bengals,@,Baltimore Ravens,boxscore,23,16,380,0,423,2
+1,Sun,2014-09-07,1:02PM,Philadelphia Eagles,,Jacksonville Jaguars,boxscore,34,17,420,3,306,1
+1,Sun,2014-09-07,1:03PM,Atlanta Falcons,,New Orleans Saints,boxscore,37,34,568,1,472,2
+1,Sun,2014-09-07,1:03PM,Miami Dolphins,,New England Patriots,boxscore,33,20,360,3,315,2
+1,Sun,2014-09-07,1:03PM,Houston Texans,,Washington Redskins,boxscore,17,6,321,1,372,2
+1,Sun,2014-09-07,4:25PM,San Francisco 49ers,@,Dallas Cowboys,boxscore,28,17,319,0,382,4
+1,Sun,2014-09-07,4:25PM,Carolina Panthers,@,Tampa Bay Buccaneers,boxscore,20,14,334,0,264,3
+1,Sun,2014-09-07,8:30PM,Denver Broncos,,Indianapolis Colts,boxscore,31,24,361,0,408,2
+1,Mon,2014-09-08,7:11PM,Detroit Lions,,New York Giants,boxscore,35,14,417,0,197,2
+1,Mon,2014-09-08,9:20PM,Arizona Cardinals,,San Diego Chargers,boxscore,18,17,403,2,290,1
+Week
+2,Thu,2014-09-11,8:28PM,Baltimore Ravens,,Pittsburgh Steelers,boxscore,26,6,323,0,301,3
+2,Sun,2014-09-14,1:02PM,Buffalo Bills,,Miami Dolphins,boxscore,29,10,315,0,290,2
+2,Sun,2014-09-14,1:03PM,Dallas Cowboys,@,Tennessee Titans,boxscore,26,10,368,1,314,2
+2,Sun,2014-09-14,1:03PM,Cleveland Browns,,New Orleans Saints,boxscore,26,24,324,0,397,2
+2,Sun,2014-09-14,1:04PM,Arizona Cardinals,@,New York Giants,boxscore,25,14,266,0,341,4
+2,Sun,2014-09-14,1:04PM,Carolina Panthers,,Detroit Lions,boxscore,24,7,313,0,323,3
+2,Sun,2014-09-14,1:05PM,Washington Redskins,,Jacksonville Jaguars,boxscore,41,10,449,0,148,1
+2,Sun,2014-09-14,1:05PM,New England Patriots,@,Minnesota Vikings,boxscore,30,7,292,0,217,4
+2,Sun,2014-09-14,1:05PM,Cincinnati Bengals,,Atlanta Falcons,boxscore,24,10,472,0,309,3
+2,Sun,2014-09-14,4:05PM,San Diego Chargers,,Seattle Seahawks,boxscore,30,21,377,0,288,1
+2,Sun,2014-09-14,4:05PM,St. Louis Rams,@,Tampa Bay Buccaneers,boxscore,19,17,339,1,332,1
+2,Sun,2014-09-14,4:25PM,Green Bay Packers,,New York Jets,boxscore,31,24,390,1,313,1
+2,Sun,2014-09-14,4:25PM,Houston Texans,@,Oakland Raiders,boxscore,30,14,327,0,364,4
+2,Sun,2014-09-14,4:25PM,Denver Broncos,,Kansas City Chiefs,boxscore,24,17,325,0,380,0
+2,Sun,2014-09-14,8:31PM,Chicago Bears,@,San Francisco 49ers,boxscore,28,20,216,0,359,4
+2,Mon,2014-09-15,8:31PM,Philadelphia Eagles,@,Indianapolis Colts,boxscore,30,27,458,1,341,2
+Week
+3,Thu,2014-09-18,8:26PM,Atlanta Falcons,,Tampa Bay Buccaneers,boxscore,56,14,488,4,217,5
+3,Sun,2014-09-21,1:00PM,Dallas Cowboys,@,St. Louis Rams,boxscore,34,31,340,2,448,3
+3,Sun,2014-09-21,1:02PM,San Diego Chargers,@,Buffalo Bills,boxscore,22,10,333,0,292,0
+3,Sun,2014-09-21,1:02PM,Detroit Lions,,Green Bay Packers,boxscore,19,7,353,3,223,1
+3,Sun,2014-09-21,1:02PM,Cincinnati Bengals,,Tennessee Titans,boxscore,33,7,300,1,326,2
+3,Sun,2014-09-21,1:02PM,Baltimore Ravens,@,Cleveland Browns,boxscore,23,21,377,1,375,0
+3,Sun,2014-09-21,1:02PM,New England Patriots,,Oakland Raiders,boxscore,16,9,297,0,241,1
+3,Sun,2014-09-21,1:02PM,Philadelphia Eagles,,Washington Redskins,boxscore,37,34,379,1,511,1
+3,Sun,2014-09-21,1:02PM,New York Giants,,Houston Texans,boxscore,30,17,419,1,411,3
+3,Sun,2014-09-21,1:02PM,Indianapolis Colts,@,Jacksonville Jaguars,boxscore,44,17,529,0,344,3
+3,Sun,2014-09-21,1:03PM,New Orleans Saints,,Minnesota Vikings,boxscore,20,9,396,0,247,0
+3,Sun,2014-09-21,4:05PM,Arizona Cardinals,,San Francisco 49ers,boxscore,23,14,338,1,318,0
+3,Sun,2014-09-21,4:25PM,Seattle Seahawks,,Denver Broncos,boxscore,26,20,384,1,332,2
+3,Sun,2014-09-21,4:25PM,Kansas City Chiefs,@,Miami Dolphins,boxscore,34,15,342,2,332,0
+3,Sun,2014-09-21,8:31PM,Pittsburgh Steelers,@,Carolina Panthers,boxscore,37,19,454,0,349,2
+3,Mon,2014-09-22,8:30PM,Chicago Bears,@,New York Jets,boxscore,27,19,257,1,414,3
+Week
+4,Thu,2014-09-25,8:26PM,New York Giants,@,Washington Redskins,boxscore,45,14,449,1,329,6
+4,Sun,2014-09-28,1:02PM,Green Bay Packers,@,Chicago Bears,boxscore,38,17,358,0,496,2
+4,Sun,2014-09-28,1:02PM,Houston Texans,,Buffalo Bills,boxscore,23,17,301,3,316,2
+4,Sun,2014-09-28,1:02PM,Baltimore Ravens,,Carolina Panthers,boxscore,38,10,454,0,315,1
+4,Sun,2014-09-28,1:02PM,Detroit Lions,@,New York Jets,boxscore,24,17,360,0,336,2
+4,Sun,2014-09-28,1:03PM,Indianapolis Colts,,Tennessee Titans,boxscore,41,17,498,1,261,3
+4,Sun,2014-09-28,1:03PM,Tampa Bay Buccaneers,@,Pittsburgh Steelers,boxscore,27,24,350,1,390,1
+4,Sun,2014-09-28,1:06PM,Miami Dolphins,@,Oakland Raiders,boxscore,38,14,435,3,317,4
+4,Sun,2014-09-28,4:05PM,San Diego Chargers,,Jacksonville Jaguars,boxscore,33,14,407,0,320,3
+4,Sun,2014-09-28,4:25PM,San Francisco 49ers,,Philadelphia Eagles,boxscore,26,21,407,1,213,4
+4,Sun,2014-09-28,4:25PM,Minnesota Vikings,,Atlanta Falcons,boxscore,41,28,558,0,411,2
+4,Sun,2014-09-28,8:31PM,Dallas Cowboys,,New Orleans Saints,boxscore,38,17,445,0,438,3
+4,Mon,2014-09-29,8:31PM,Kansas City Chiefs,,New England Patriots,boxscore,41,14,443,0,290,3
+Week
+5,Thu,2014-10-02,8:26PM,Green Bay Packers,,Minnesota Vikings,boxscore,42,10,320,1,299,3
+5,Sun,2014-10-05,1:02PM,Cleveland Browns,@,Tennessee Titans,boxscore,29,28,460,1,410,0
+5,Sun,2014-10-05,1:02PM,Pittsburgh Steelers,@,Jacksonville Jaguars,boxscore,17,9,372,1,243,2
+5,Sun,2014-10-05,1:02PM,Philadelphia Eagles,,St. Louis Rams,boxscore,34,28,352,3,466,3
+5,Sun,2014-10-05,1:03PM,New York Giants,,Atlanta Falcons,boxscore,30,20,317,2,397,1
+5,Sun,2014-10-05,1:03PM,New Orleans Saints,,Tampa Bay Buccaneers,boxscore,37,31,511,3,314,1
+5,Sun,2014-10-05,1:03PM,Dallas Cowboys,,Houston Texans,boxscore,20,17,456,3,330,1
+5,Sun,2014-10-05,1:03PM,Buffalo Bills,@,Detroit Lions,boxscore,17,14,343,1,273,2
+5,Sun,2014-10-05,1:03PM,Carolina Panthers,,Chicago Bears,boxscore,31,24,322,3,347,4
+5,Sun,2014-10-05,1:03PM,Indianapolis Colts,,Baltimore Ravens,boxscore,20,13,432,4,287,3
+5,Sun,2014-10-05,4:05PM,Denver Broncos,,Arizona Cardinals,boxscore,41,20,568,2,215,0
+5,Sun,2014-10-05,4:25PM,San Diego Chargers,,New York Jets,boxscore,31,0,439,1,151,2
+5,Sun,2014-10-05,4:25PM,San Francisco 49ers,,Kansas City Chiefs,boxscore,22,17,357,0,265,1
+5,Sun,2014-10-05,8:43PM,New England Patriots,,Cincinnati Bengals,boxscore,43,17,505,0,320,3
+5,Mon,2014-10-06,8:30PM,Seattle Seahawks,@,Washington Redskins,boxscore,27,17,403,0,307,0
+Week
+6,Thu,2014-10-09,8:26PM,Indianapolis Colts,@,Houston Texans,boxscore,33,28,456,2,332,2
+6,Sun,2014-10-12,1:02PM,Cleveland Browns,,Pittsburgh Steelers,boxscore,31,10,368,1,359,1
+6,Sun,2014-10-12,1:02PM,Denver Broncos,@,New York Jets,boxscore,31,17,359,0,204,2
+6,Sun,2014-10-12,1:02PM,Detroit Lions,@,Minnesota Vikings,boxscore,17,3,255,0,212,3
+6,Sun,2014-10-12,1:02PM,Baltimore Ravens,@,Tampa Bay Buccaneers,boxscore,48,17,475,1,364,1
+6,Sun,2014-10-12,1:02PM,Green Bay Packers,@,Miami Dolphins,boxscore,27,24,369,0,349,3
+6,Sun,2014-10-12,1:02PM,New England Patriots,@,Buffalo Bills,boxscore,37,22,396,0,336,3
+6,Sun,2014-10-12,1:02PM,Tennessee Titans,,Jacksonville Jaguars,boxscore,16,14,290,0,379,2
+6,Sun,2014-10-12,1:03PM,Cincinnati Bengals,,Carolina Panthers,boxscore,37,37,513,2,431,1
+6,Sun,2014-10-12,4:05PM,San Diego Chargers,@,Oakland Raiders,boxscore,31,28,423,0,396,1
+6,Sun,2014-10-12,4:25PM,Arizona Cardinals,,Washington Redskins,boxscore,30,20,317,0,407,4
+6,Sun,2014-10-12,4:25PM,Chicago Bears,@,Atlanta Falcons,boxscore,27,13,478,0,287,1
+6,Sun,2014-10-12,4:26PM,Dallas Cowboys,@,Seattle Seahawks,boxscore,30,23,401,2,206,1
+6,Sun,2014-10-12,8:41PM,Philadelphia Eagles,,New York Giants,boxscore,27,0,448,2,254,1
+6,Mon,2014-10-13,8:30PM,San Francisco 49ers,@,St. Louis Rams,boxscore,31,17,432,1,309,1
+Week
+7,Thu,2014-10-16,8:25PM,New England Patriots,,New York Jets,boxscore,27,25,323,0,423,0
+7,Sun,2014-10-19,1:00PM,St. Louis Rams,,Seattle Seahawks,boxscore,28,26,275,0,463,0
+7,Sun,2014-10-19,1:00PM,Miami Dolphins,@,Chicago Bears,boxscore,27,14,393,0,224,3
+7,Sun,2014-10-19,1:02PM,Indianapolis Colts,,Cincinnati Bengals,boxscore,27,0,506,2,135,0
+7,Sun,2014-10-19,1:02PM,Jacksonville Jaguars,,Cleveland Browns,boxscore,24,6,336,3,266,3
+7,Sun,2014-10-19,1:02PM,Baltimore Ravens,,Atlanta Falcons,boxscore,29,7,371,3,254,1
+7,Sun,2014-10-19,1:02PM,Buffalo Bills,,Minnesota Vikings,boxscore,17,16,373,4,276,2
+7,Sun,2014-10-19,1:02PM,Green Bay Packers,,Carolina Panthers,boxscore,38,17,363,0,331,1
+7,Sun,2014-10-19,1:02PM,Washington Redskins,,Tennessee Titans,boxscore,19,17,351,2,236,2
+7,Sun,2014-10-19,1:02PM,Detroit Lions,,New Orleans Saints,boxscore,24,23,344,2,408,2
+7,Sun,2014-10-19,4:05PM,Kansas City Chiefs,@,San Diego Chargers,boxscore,23,20,365,0,251,1
+7,Sun,2014-10-19,4:25PM,Arizona Cardinals,@,Oakland Raiders,boxscore,24,13,365,1,220,0
+7,Sun,2014-10-19,4:25PM,Dallas Cowboys,,New York Giants,boxscore,31,21,423,1,352,2
+7,Sun,2014-10-19,8:30PM,Denver Broncos,,San Francisco 49ers,boxscore,42,17,419,0,310,1
+7,Mon,2014-10-20,8:30PM,Pittsburgh Steelers,,Houston Texans,boxscore,30,23,328,1,393,3
+Week
+8,Thu,2014-10-23,8:26PM,Denver Broncos,,San Diego Chargers,boxscore,35,21,425,0,306,2
+8,Sun,2014-10-26,9:37AM,Detroit Lions,@,Atlanta Falcons,boxscore,22,21,385,1,291,1
+8,Sun,2014-10-26,1:02PM,Cincinnati Bengals,,Baltimore Ravens,boxscore,27,24,350,2,294,2
+8,Sun,2014-10-26,1:02PM,New England Patriots,,Chicago Bears,boxscore,51,23,487,0,384,2
+8,Sun,2014-10-26,1:02PM,Miami Dolphins,@,Jacksonville Jaguars,boxscore,27,13,326,1,377,3
+8,Sun,2014-10-26,1:02PM,Buffalo Bills,@,New York Jets,boxscore,43,23,280,0,312,6
+8,Sun,2014-10-26,1:03PM,Minnesota Vikings,@,Tampa Bay Buccaneers,boxscore,19,13,332,0,225,2
+8,Sun,2014-10-26,1:03PM,Houston Texans,@,Tennessee Titans,boxscore,30,16,405,0,326,2
+8,Sun,2014-10-26,1:04PM,Kansas City Chiefs,,St. Louis Rams,boxscore,34,7,355,1,200,1
+8,Sun,2014-10-26,1:04PM,Seattle Seahawks,@,Carolina Panthers,boxscore,13,9,310,2,266,2
+8,Sun,2014-10-26,4:05PM,Arizona Cardinals,,Philadelphia Eagles,boxscore,24,20,400,1,521,3
+8,Sun,2014-10-26,4:25PM,Cleveland Browns,,Oakland Raiders,boxscore,23,13,306,0,387,3
+8,Sun,2014-10-26,4:25PM,Pittsburgh Steelers,,Indianapolis Colts,boxscore,51,34,639,2,448,2
+8,Sun,2014-10-26,8:30PM,New Orleans Saints,,Green Bay Packers,boxscore,44,23,495,1,491,3
+8,Mon,2014-10-27,8:30PM,Washington Redskins,@,Dallas Cowboys,boxscore,20,17,409,1,395,2
+Week
+9,Thu,2014-10-30,8:30PM,New Orleans Saints,@,Carolina Panthers,boxscore,28,10,375,2,231,2
+9,Sun,2014-11-02,1:02PM,Cincinnati Bengals,,Jacksonville Jaguars,boxscore,33,23,423,2,365,1
+9,Sun,2014-11-02,1:02PM,Miami Dolphins,,San Diego Chargers,boxscore,37,0,441,0,178,4
+9,Sun,2014-11-02,1:02PM,Cleveland Browns,,Tampa Bay Buccaneers,boxscore,22,17,330,2,365,2
+9,Sun,2014-11-02,1:03PM,Kansas City Chiefs,,New York Jets,boxscore,24,10,309,0,364,0
+9,Sun,2014-11-02,1:03PM,Minnesota Vikings,,Washington Redskins,boxscore,29,26,352,0,347,1
+9,Sun,2014-11-02,1:03PM,Philadelphia Eagles,@,Houston Texans,boxscore,31,21,483,4,300,1
+9,Sun,2014-11-02,1:04PM,Arizona Cardinals,@,Dallas Cowboys,boxscore,28,17,339,1,266,2
+9,Sun,2014-11-02,4:05PM,St. Louis Rams,@,San Francisco 49ers,boxscore,13,10,193,2,263,2
+9,Sun,2014-11-02,4:25PM,New England Patriots,,Denver Broncos,boxscore,43,21,398,1,472,2
+9,Sun,2014-11-02,4:26PM,Seattle Seahawks,,Oakland Raiders,boxscore,30,24,326,0,226,3
+9,Sun,2014-11-02,8:30PM,Pittsburgh Steelers,,Baltimore Ravens,boxscore,43,23,376,1,332,2
+9,Mon,2014-11-03,8:31PM,Indianapolis Colts,@,New York Giants,boxscore,40,24,443,0,438,1
+Week
+10,Thu,2014-11-06,8:29PM,Cleveland Browns,@,Cincinnati Bengals,boxscore,24,3,368,1,165,4
+10,Sun,2014-11-09,1:02PM,Kansas City Chiefs,@,Buffalo Bills,boxscore,17,13,278,1,364,3
+10,Sun,2014-11-09,1:02PM,Detroit Lions,,Miami Dolphins,boxscore,20,16,351,1,228,2
+10,Sun,2014-11-09,1:02PM,New York Jets,,Pittsburgh Steelers,boxscore,20,13,275,0,362,4
+10,Sun,2014-11-09,1:03PM,Baltimore Ravens,,Tennessee Titans,boxscore,21,7,312,0,210,2
+10,Sun,2014-11-09,1:03PM,San Francisco 49ers,@,New Orleans Saints,boxscore,27,24,330,1,423,3
+10,Sun,2014-11-09,1:04PM,Atlanta Falcons,@,Tampa Bay Buccaneers,boxscore,27,17,322,0,373,3
+10,Sun,2014-11-09,1:06PM,Dallas Cowboys,@,Jacksonville Jaguars,boxscore,31,17,399,1,333,3
+10,Sun,2014-11-09,4:05PM,Denver Broncos,@,Oakland Raiders,boxscore,41,17,471,2,222,3
+10,Sun,2014-11-09,4:25PM,Arizona Cardinals,,St. Louis Rams,boxscore,31,14,335,1,244,3
+10,Sun,2014-11-09,4:26PM,Seattle Seahawks,,New York Giants,boxscore,38,17,510,3,324,2
+10,Sun,2014-11-09,8:30PM,Green Bay Packers,,Chicago Bears,boxscore,55,14,451,1,311,3
+10,Mon,2014-11-10,8:32PM,Philadelphia Eagles,,Carolina Panthers,boxscore,45,21,365,0,317,5
+Week
+11,Thu,2014-11-13,8:26PM,Miami Dolphins,,Buffalo Bills,boxscore,22,9,330,2,237,0
+11,Sun,2014-11-16,1:00PM,St. Louis Rams,,Denver Broncos,boxscore,22,7,337,0,397,2
+11,Sun,2014-11-16,1:02PM,Chicago Bears,,Minnesota Vikings,boxscore,21,13,468,2,243,1
+11,Sun,2014-11-16,1:02PM,Cincinnati Bengals,@,New Orleans Saints,boxscore,27,10,405,0,330,1
+11,Sun,2014-11-16,1:03PM,San Francisco 49ers,@,New York Giants,boxscore,16,10,333,1,330,5
+11,Sun,2014-11-16,1:03PM,Tampa Bay Buccaneers,@,Washington Redskins,boxscore,27,7,329,1,322,3
+11,Sun,2014-11-16,1:03PM,Houston Texans,@,Cleveland Browns,boxscore,23,7,424,1,375,2
+11,Sun,2014-11-16,1:03PM,Atlanta Falcons,@,Carolina Panthers,boxscore,19,17,346,1,391,2
+11,Sun,2014-11-16,1:04PM,Kansas City Chiefs,,Seattle Seahawks,boxscore,24,20,298,2,372,0
+11,Sun,2014-11-16,4:05PM,San Diego Chargers,,Oakland Raiders,boxscore,13,6,300,0,233,1
+11,Sun,2014-11-16,4:25PM,Arizona Cardinals,,Detroit Lions,boxscore,14,6,352,2,262,1
+11,Sun,2014-11-16,4:25PM,Green Bay Packers,,Philadelphia Eagles,boxscore,53,20,475,0,429,4
+11,Sun,2014-11-16,8:31PM,New England Patriots,@,Indianapolis Colts,boxscore,42,20,503,2,322,1
+11,Mon,2014-11-17,8:30PM,Pittsburgh Steelers,@,Tennessee Titans,boxscore,27,24,386,1,312,1
+Week
+12,Thu,2014-11-20,8:26PM,Oakland Raiders,,Kansas City Chiefs,boxscore,24,20,351,1,313,0
+12,Sun,2014-11-23,1:02PM,Cleveland Browns,@,Atlanta Falcons,boxscore,26,24,475,3,315,2
+12,Sun,2014-11-23,1:02PM,Philadelphia Eagles,,Tennessee Titans,boxscore,43,24,462,2,351,3
+12,Sun,2014-11-23,1:02PM,Indianapolis Colts,,Jacksonville Jaguars,boxscore,23,3,389,3,194,2
+12,Sun,2014-11-23,1:02PM,New England Patriots,,Detroit Lions,boxscore,34,9,439,1,335,1
+12,Sun,2014-11-23,1:02PM,Chicago Bears,,Tampa Bay Buccaneers,boxscore,21,13,204,1,367,4
+12,Sun,2014-11-23,1:02PM,Cincinnati Bengals,@,Houston Texans,boxscore,22,13,372,1,248,1
+12,Sun,2014-11-23,1:03PM,Green Bay Packers,@,Minnesota Vikings,boxscore,24,21,362,0,308,1
+12,Sun,2014-11-23,4:05PM,San Diego Chargers,,St. Louis Rams,boxscore,27,24,410,3,317,3
+12,Sun,2014-11-23,4:06PM,Seattle Seahawks,,Arizona Cardinals,boxscore,19,3,293,0,204,1
+12,Sun,2014-11-23,4:25PM,Denver Broncos,,Miami Dolphins,boxscore,39,36,450,1,313,1
+12,Sun,2014-11-23,4:25PM,San Francisco 49ers,,Washington Redskins,boxscore,17,13,312,3,213,1
+12,Sun,2014-11-23,8:30PM,Dallas Cowboys,@,New York Giants,boxscore,31,28,385,1,417,1
+12,Mon,2014-11-24,7:05PM,Buffalo Bills,,New York Jets,boxscore,38,3,336,0,218,1
+12,Mon,2014-11-24,8:30PM,Baltimore Ravens,@,New Orleans Saints,boxscore,34,27,449,1,525,1
+Week
+13,Thu,2014-11-27,12:39PM,Detroit Lions,,Chicago Bears,boxscore,34,17,474,1,269,2
+13,Thu,2014-11-27,4:36PM,Philadelphia Eagles,@,Dallas Cowboys,boxscore,33,10,464,1,267,3
+13,Thu,2014-11-27,8:31PM,Seattle Seahawks,@,San Francisco 49ers,boxscore,19,3,379,0,164,3
+13,Sun,2014-11-30,1:00PM,St. Louis Rams,,Oakland Raiders,boxscore,52,0,348,0,244,5
+13,Sun,2014-11-30,1:02PM,Minnesota Vikings,,Carolina Panthers,boxscore,31,13,210,0,348,1
+13,Sun,2014-11-30,1:02PM,Cincinnati Bengals,@,Tampa Bay Buccaneers,boxscore,14,13,288,3,263,1
+13,Sun,2014-11-30,1:02PM,New Orleans Saints,@,Pittsburgh Steelers,boxscore,35,32,393,0,538,2
+13,Sun,2014-11-30,1:02PM,Buffalo Bills,,Cleveland Browns,boxscore,26,10,287,2,315,3
+13,Sun,2014-11-30,1:02PM,San Diego Chargers,@,Baltimore Ravens,boxscore,34,33,440,2,350,0
+13,Sun,2014-11-30,1:02PM,Houston Texans,,Tennessee Titans,boxscore,45,21,457,1,320,4
+13,Sun,2014-11-30,1:02PM,Indianapolis Colts,,Washington Redskins,boxscore,49,27,487,3,425,1
+13,Sun,2014-11-30,1:03PM,Jacksonville Jaguars,,New York Giants,boxscore,25,24,258,0,329,3
+13,Sun,2014-11-30,4:05PM,Atlanta Falcons,,Arizona Cardinals,boxscore,29,18,500,1,329,3
+13,Sun,2014-11-30,4:25PM,Green Bay Packers,,New England Patriots,boxscore,26,21,478,0,320,0
+13,Sun,2014-11-30,8:32PM,Denver Broncos,@,Kansas City Chiefs,boxscore,29,16,388,1,151,3
+13,Mon,2014-12-01,8:30PM,Miami Dolphins,@,New York Jets,boxscore,16,13,291,1,326,1
+Week
+14,Thu,2014-12-04,8:26PM,Dallas Cowboys,@,Chicago Bears,boxscore,41,28,397,0,376,2
+14,Sun,2014-12-07,1:02PM,Detroit Lions,,Tampa Bay Buccaneers,boxscore,34,17,407,1,233,3
+14,Sun,2014-12-07,1:02PM,Baltimore Ravens,@,Miami Dolphins,boxscore,28,13,447,1,249,0
+14,Sun,2014-12-07,1:02PM,Minnesota Vikings,,New York Jets,boxscore,30,24,411,2,410,2
+14,Sun,2014-12-07,1:02PM,Pittsburgh Steelers,@,Cincinnati Bengals,boxscore,42,21,543,0,408,2
+14,Sun,2014-12-07,1:03PM,St. Louis Rams,@,Washington Redskins,boxscore,24,0,329,0,206,2
+14,Sun,2014-12-07,1:03PM,Houston Texans,@,Jacksonville Jaguars,boxscore,27,13,304,0,262,1
+14,Sun,2014-12-07,1:03PM,New York Giants,@,Tennessee Titans,boxscore,36,7,402,1,207,3
+14,Sun,2014-12-07,1:03PM,Carolina Panthers,@,New Orleans Saints,boxscore,41,10,497,0,310,2
+14,Sun,2014-12-07,1:03PM,Indianapolis Colts,@,Cleveland Browns,boxscore,25,24,362,4,248,2
+14,Sun,2014-12-07,4:05PM,Arizona Cardinals,,Kansas City Chiefs,boxscore,17,14,366,0,390,2
+14,Sun,2014-12-07,4:05PM,Denver Broncos,,Buffalo Bills,boxscore,24,17,306,3,415,3
+14,Sun,2014-12-07,4:25PM,Seattle Seahawks,@,Philadelphia Eagles,boxscore,24,14,440,2,139,2
+14,Sun,2014-12-07,4:25PM,Oakland Raiders,,San Francisco 49ers,boxscore,24,13,330,0,248,2
+14,Sun,2014-12-07,8:30PM,New England Patriots,@,San Diego Chargers,boxscore,23,14,397,2,216,1
+14,Mon,2014-12-08,8:30PM,Green Bay Packers,,Atlanta Falcons,boxscore,43,37,502,0,465,1
+Week
+15,Thu,2014-12-11,8:25PM,Arizona Cardinals,@,St. Louis Rams,boxscore,12,6,274,0,280,2
+15,Sun,2014-12-14,1:02PM,New York Giants,,Washington Redskins,boxscore,24,13,287,1,372,1
+15,Sun,2014-12-14,1:02PM,Cincinnati Bengals,@,Cleveland Browns,boxscore,30,0,347,1,107,2
+15,Sun,2014-12-14,1:02PM,Baltimore Ravens,,Jacksonville Jaguars,boxscore,20,12,314,1,248,1
+15,Sun,2014-12-14,1:02PM,Indianapolis Colts,,Houston Texans,boxscore,17,10,278,2,289,2
+15,Sun,2014-12-14,1:02PM,Pittsburgh Steelers,@,Atlanta Falcons,boxscore,27,20,398,0,407,1
+15,Sun,2014-12-14,1:02PM,Buffalo Bills,,Green Bay Packers,boxscore,21,13,253,1,333,2
+15,Sun,2014-12-14,1:02PM,New England Patriots,,Miami Dolphins,boxscore,41,13,395,1,384,2
+15,Sun,2014-12-14,1:03PM,Carolina Panthers,,Tampa Bay Buccaneers,boxscore,19,17,392,1,287,3
+15,Sun,2014-12-14,1:03PM,Kansas City Chiefs,,Oakland Raiders,boxscore,31,13,388,1,280,1
+15,Sun,2014-12-14,4:05PM,New York Jets,@,Tennessee Titans,boxscore,16,11,277,0,342,1
+15,Sun,2014-12-14,4:05PM,Denver Broncos,@,San Diego Chargers,boxscore,22,10,337,0,288,2
+15,Sun,2014-12-14,4:25PM,Detroit Lions,,Minnesota Vikings,boxscore,16,14,233,0,360,2
+15,Sun,2014-12-14,4:26PM,Seattle Seahawks,,San Francisco 49ers,boxscore,17,7,290,1,245,0
+15,Sun,2014-12-14,8:35PM,Dallas Cowboys,@,Philadelphia Eagles,boxscore,38,27,364,1,294,3
+15,Mon,2014-12-15,8:30PM,New Orleans Saints,@,Chicago Bears,boxscore,31,15,443,1,278,3
+Week
+16,Thu,2014-12-18,8:26PM,Jacksonville Jaguars,,Tennessee Titans,boxscore,21,13,288,0,357,0
+16,Sat,2014-12-20,4:30PM,Washington Redskins,,Philadelphia Eagles,boxscore,27,24,305,2,495,2
+16,Sat,2014-12-20,8:26PM,San Diego Chargers,@,San Francisco 49ers,boxscore,38,35,446,3,447,3
+16,Sun,2014-12-21,1:02PM,New England Patriots,@,New York Jets,boxscore,17,16,231,1,307,1
+16,Sun,2014-12-21,1:02PM,Pittsburgh Steelers,,Kansas City Chiefs,boxscore,20,12,282,0,327,1
+16,Sun,2014-12-21,1:02PM,Houston Texans,,Baltimore Ravens,boxscore,25,13,313,1,211,3
+16,Sun,2014-12-21,1:03PM,Atlanta Falcons,@,New Orleans Saints,boxscore,30,14,403,0,328,4
+16,Sun,2014-12-21,1:03PM,Miami Dolphins,,Minnesota Vikings,boxscore,37,35,493,2,357,1
+16,Sun,2014-12-21,1:03PM,Detroit Lions,@,Chicago Bears,boxscore,20,14,367,3,234,1
+16,Sun,2014-12-21,1:03PM,Green Bay Packers,@,Tampa Bay Buccaneers,boxscore,20,3,431,1,109,1
+16,Sun,2014-12-21,1:04PM,Carolina Panthers,,Cleveland Browns,boxscore,17,13,404,2,228,1
+16,Sun,2014-12-21,4:05PM,New York Giants,@,St. Louis Rams,boxscore,37,27,514,0,387,3
+16,Sun,2014-12-21,4:25PM,Oakland Raiders,,Buffalo Bills,boxscore,26,24,347,0,321,2
+16,Sun,2014-12-21,4:26PM,Dallas Cowboys,,Indianapolis Colts,boxscore,42,7,377,1,229,3
+16,Sun,2014-12-21,8:30PM,Seattle Seahawks,@,Arizona Cardinals,boxscore,35,6,596,0,216,1
+16,Mon,2014-12-22,8:30PM,Cincinnati Bengals,,Denver Broncos,boxscore,37,28,353,2,385,4
+Week
+17,Sun,2014-12-28,1:02PM,Philadelphia Eagles,@,New York Giants,boxscore,34,26,426,1,505,1
+17,Sun,2014-12-28,1:02PM,Minnesota Vikings,,Chicago Bears,boxscore,13,9,311,1,264,0
+17,Sun,2014-12-28,1:02PM,Baltimore Ravens,,Cleveland Browns,boxscore,20,10,419,0,259,2
+17,Sun,2014-12-28,1:02PM,Indianapolis Colts,@,Tennessee Titans,boxscore,27,10,378,0,192,1
+17,Sun,2014-12-28,1:02PM,Buffalo Bills,@,New England Patriots,boxscore,17,9,268,1,260,0
+17,Sun,2014-12-28,1:02PM,New York Jets,@,Miami Dolphins,boxscore,37,24,494,1,387,1
+17,Sun,2014-12-28,1:03PM,New Orleans Saints,@,Tampa Bay Buccaneers,boxscore,23,20,338,3,280,1
+17,Sun,2014-12-28,1:03PM,Houston Texans,,Jacksonville Jaguars,boxscore,23,17,358,2,233,0
+17,Sun,2014-12-28,1:03PM,Kansas City Chiefs,,San Diego Chargers,boxscore,19,7,251,0,361,3
+17,Sun,2014-12-28,1:05PM,Dallas Cowboys,@,Washington Redskins,boxscore,44,17,473,1,413,4
+17,Sun,2014-12-28,4:25PM,Denver Broncos,,Oakland Raiders,boxscore,47,14,451,1,199,2
+17,Sun,2014-12-28,4:25PM,Green Bay Packers,,Detroit Lions,boxscore,30,20,377,2,313,1
+17,Sun,2014-12-28,4:25PM,San Francisco 49ers,,Arizona Cardinals,boxscore,20,17,395,0,397,3
+17,Sun,2014-12-28,4:25PM,Carolina Panthers,@,Atlanta Falcons,boxscore,34,3,306,0,288,3
+17,Sun,2014-12-28,4:27PM,Seattle Seahawks,,St. Louis Rams,boxscore,20,6,354,2,245,3
+17,Sun,2014-12-28,8:30PM,Pittsburgh Steelers,,Cincinnati Bengals,boxscore,27,17,346,3,337,3
+,,Playoffs,,,,,,,,,,,
+WildCard,Sat,2015-01-03,4:20PM,Carolina Panthers,,Arizona Cardinals,boxscore,27,16,386,3,78,3
+WildCard,Sat,2015-01-03,8:15PM,Baltimore Ravens,@,Pittsburgh Steelers,boxscore,30,17,299,1,387,3
+WildCard,Sun,2015-01-04,1:05PM,Indianapolis Colts,,Cincinnati Bengals,boxscore,26,10,482,1,254,1
+WildCard,Sun,2015-01-04,4:41PM,Dallas Cowboys,,Detroit Lions,boxscore,24,20,315,1,397,3
+Division,Sat,2015-01-10,4:35PM,New England Patriots,,Baltimore Ravens,boxscore,35,31,422,1,428,2
+Division,Sat,2015-01-10,8:21PM,Seattle Seahawks,,Carolina Panthers,boxscore,31,17,348,0,362,3
+Division,Sun,2015-01-11,1:05PM,Green Bay Packers,,Dallas Cowboys,boxscore,26,21,416,1,315,1
+Division,Sun,2015-01-11,4:40PM,Indianapolis Colts,@,Denver Broncos,boxscore,24,13,364,2,288,1
+ConfChamp,Sun,2015-01-18,3:06PM,Seattle Seahawks,,Green Bay Packers,boxscore,28,22,397,5,306,2
+ConfChamp,Sun,2015-01-18,6:50PM,New England Patriots,,Indianapolis Colts,boxscore,45,7,397,1,209,3
+SuperBowl,Sun,2015-02-01,6:30PM,New England Patriots,N,Seattle Seahawks,boxscore,28,24,377,2,396,1
